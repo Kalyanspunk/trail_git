@@ -34,3 +34,4 @@ def predict():
     return render_template('index.html', prediction=prediction)
 
 if main
+#kalyan
