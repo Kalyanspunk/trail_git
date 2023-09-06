@@ -33,4 +33,4 @@ def predict():
     prediction = model.predict(input_data)[0]
     return render_template('index.html', prediction=prediction)
 
-
+if main
