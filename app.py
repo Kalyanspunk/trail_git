@@ -33,9 +33,6 @@ def predict():
     prediction = model.predict(input_data)[0]
     return render_template('index.html', prediction=prediction)
 
-if __name__ == '__main__':
-    app.run(debug=True)
-    print("kalyan")
-
+if main
+def predict():
 #kalyan
-uedguieg
