@@ -34,4 +34,6 @@ def predict():
     return render_template('index.html', prediction=prediction)
 
 if main
+def predict():
 #kalyan
+zxcjbvjmlk,njkbhjghch
