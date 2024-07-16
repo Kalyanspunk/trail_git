@@ -31,7 +31,7 @@ def predict():
                   float(data['Schooling'])]
     input_data = np.array(input_data).reshape(1, -1)
     prediction = model.predict(input_data)[0]
-    return render_template('index.html', prediction=prediction)
+    return render_template('index.html', prediction=prediction)    /*should update*/
 
 if main
 def predict():
